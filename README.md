@@ -17,4 +17,7 @@
 ## Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugodaniel2000&show_icons=true&locale=en&layout=compact" alt="hugodaniel2000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugodaniel2000&show_icons=true&locale=en&layout=compact" alt="hugodaniel2000" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugodaniel2000&layout=compact&theme=tokyonight&hide=r,dockerfile" width="400em" height="180em" align="center" />
+</a>
+
