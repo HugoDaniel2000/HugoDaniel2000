@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hugo Daniel</h1>
-<h3 align="center">A passionate Full Stack developer from Brazil</h3>
+<h3 align="center">I'm passionate about technology, programming was a way I found to create things and be fascinated every day to make it possible.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugodaniel2000&label=Profile%20views&color=0e75b6&style=flat" alt="hugodaniel2000" /> </p>
+
+- 🌱 I’m currently learning programming at **Trybe**
 
 - 📫 How to reach me **hugodanielc67@gmail.com**
 
@@ -16,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugodaniel2000&show_icons=true&locale=en&layout=compact" alt="hugodaniel2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugodaniel2000&show_icons=true&locale=en" alt="hugodaniel2000" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugodaniel2000&" alt="hugodaniel2000" /></p>
