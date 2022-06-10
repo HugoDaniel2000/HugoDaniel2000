@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Daniel</h1>
-<h3 align="center">I'm passionate about technology, programming was a way I found to create things and be fascinated every day to make it possible.</h3>
+<h3 align="center">Sou apaixonado por tecnologia, programar foi uma forma que encontrei de criar coisas e me fascinar todos os dias para tornar isso possível.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugodaniel2000&label=Profile%20views&color=0e75b6&style=flat" alt="hugodaniel2000" /> </p>
 
